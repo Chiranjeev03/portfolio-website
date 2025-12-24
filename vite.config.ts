@@ -16,5 +16,5 @@ export default defineConfig(({ mode }) => ({
     },
   },
 
-  base: process.env.VITE_BASE_PATH || "/portfolio-website",
+  base: "/portfolio-website/",
 }));
