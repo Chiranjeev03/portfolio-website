@@ -16,7 +16,7 @@ const Hero = () => {
           {/* Text Content */}
           <div className="order-2 lg:order-1 text-center lg:text-left">
             <p className="text-muted-foreground font-medium mb-4 opacity-0 animate-fade-up">
-              Hello, I'm
+              Hello, I am
             </p>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-display font-bold text-foreground mb-4 opacity-0 animate-fade-up animation-delay-100">
               Chiranjeev Patil
